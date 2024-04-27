@@ -8,8 +8,8 @@ from motor import Pin, Motor28BYJ
 refH = "20:57:00 Hrs"
 
 #Configuración WiFi
-nameNet="LeonardoDePisa"
-password="Ua666GoYLb!"
+nameNet="NombreRedWifi"
+password="Contraseña"
 #Configuración del tiempo
 ntptime.host = "cronos.cenam.mx"
 timezone = -6 #UTC-6
